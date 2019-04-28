@@ -1,3 +1,4 @@
-### Text-Analytics-Class-Project-Cell-Phone-Reviews
+### DSO 599 Text Analytics
+### Cell Phone Reivews NLP Project
 
 Data: https://www.kaggle.com/masaladata/14-million-cell-phone-reviews
